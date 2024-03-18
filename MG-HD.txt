@@ -1,0 +1,28 @@
+A:git init
+git remote add origin https://github.com/MuranyiGaborCkik/probavizsga.git
+git add .
+git status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+B:
+
+
+
+
+
+
+
+
+
